@@ -7,7 +7,7 @@ function sum(a, b) {
     return a+b;
 }
 
-// exports and object 
+// exports an object 
 module.exports = {
     multiply: multiply,
     sum: sum
