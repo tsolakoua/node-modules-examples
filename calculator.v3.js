@@ -11,6 +11,6 @@ exports an object
 var exports = module.exports;
 is reference to module.exports  
 */
-exprts.multiply = multiply;
+exports.multiply = multiply;
 exports.sum = sum;
 
